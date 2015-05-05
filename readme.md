@@ -33,10 +33,14 @@
     var b = "4";
     var c = "five";
     var d = a + b;
-    var e = a * c;
+    var e = a * b;
     var f = a + c;
     var g = a * c;
     // What does d equal?
     // What does e equal?
     // What does f equal?
     // What does g equal?
+
+
+
+
